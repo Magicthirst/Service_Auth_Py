@@ -1,0 +1,5 @@
+uvicorn~=0.34.0
+attrs~=25.1.0
+fastapi~=0.115.7
+pydantic~=2.10.6
+jwcrypto
